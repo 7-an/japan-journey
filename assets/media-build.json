@@ -1,0 +1,6 @@
+{
+  "source": "Existing source_video originals; shot timing preserved from cover_v11 montage manifest",
+  "opening": "1920x1080, H.264, CRF 17, 30 fps, no baked text",
+  "end": "Same final frame remains in video element; opening-end.png is extracted only for initial poster",
+  "source_limitation": "Most source files are compressed 1080p; one retained shot is 720p. Export does not recover absent source detail."
+}
