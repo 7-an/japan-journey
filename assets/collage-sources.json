@@ -1,0 +1,54 @@
+{
+  "ghibli": [
+    {
+      "work": "totoro",
+      "page": "https://www.ghibli.jp/works/totoro/",
+      "image": "https://www.ghibli.jp/gallery/totoro036.jpg"
+    },
+    {
+      "work": "chihiro",
+      "page": "https://www.ghibli.jp/works/chihiro/",
+      "image": "https://www.ghibli.jp/gallery/chihiro044.jpg"
+    },
+    {
+      "work": "howl",
+      "page": "https://www.ghibli.jp/works/howl/",
+      "image": "https://www.ghibli.jp/gallery/howl044.jpg"
+    },
+    {
+      "work": "mononoke",
+      "page": "https://www.ghibli.jp/works/mononoke/",
+      "image": "https://www.ghibli.jp/gallery/mononoke036.jpg"
+    },
+    {
+      "work": "ponyo",
+      "page": "https://www.ghibli.jp/works/ponyo/",
+      "image": "https://www.ghibli.jp/gallery/ponyo036.jpg"
+    },
+    {
+      "work": "majo",
+      "page": "https://www.ghibli.jp/works/majo/",
+      "image": "https://www.ghibli.jp/gallery/majo024.jpg"
+    }
+  ],
+  "existing": [
+    "One Piece, Your Name, Wotakoi, Frieren, Edgerunners, Weathering With You and Suzume: frames from the existing source_video promotional footage, see montage_manifest.json",
+    "Crayon Shin-chan: https://www.shinchan-app.jp/anime/anime261010_1.png"
+  ],
+  "works": [
+    "My Neighbor Totoro",
+    "One Piece",
+    "Wotakoi",
+    "Spirited Away",
+    "Your Name",
+    "Frieren",
+    "Howl’s Moving Castle",
+    "Ponyo",
+    "Cyberpunk: Edgerunners",
+    "Crayon Shin-chan",
+    "Princess Mononoke",
+    "Kiki’s Delivery Service",
+    "Suzume",
+    "Weathering With You"
+  ]
+}
