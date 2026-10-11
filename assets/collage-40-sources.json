@@ -1,0 +1,268 @@
+{
+  "count": 40,
+  "selection": "Curated from ranking references and familiar classics; not a reproduction of a single top-40 ranking. Original user favorites retained. One unique work per tile.",
+  "ranking_references": [
+    {
+      "name": "Bangumi audience score ranking",
+      "url": "https://bgm.tv/anime/browser?sort=rank"
+    },
+    {
+      "name": "NHK Nippon Anime 100 audience vote (2017), contemporary reporting",
+      "url": "https://www.crunchyroll.com/news/latest/2017/5/4/best-anime-100-results-revealed-for-nhks-nippon-anime-100"
+    }
+  ],
+  "works": [
+    {
+      "name": "Hyouka",
+      "file": "hyouka.jpg",
+      "page": "https://www.kyotoanimation.co.jp/kotenbu/story/18/",
+      "image": "https://www.kyotoanimation.co.jp/img/kotenbu/story/18/1.jpg",
+      "kind": "official episode still"
+    },
+    {
+      "name": "Sword Art Online",
+      "file": "sao.jpg",
+      "page": "https://www.swordart-online.net/aincrad/story/",
+      "image": "https://www.swordart-online.net/aincrad/story/SYS/CONTENTS/story_905_photo_159072368376832356",
+      "kind": "official episode still"
+    },
+    {
+      "name": "When Marnie Was There",
+      "file": "marnie.jpg",
+      "page": "https://www.ghibli.jp/works/marnie/",
+      "image": "https://www.ghibli.jp/gallery/marnie031.jpg",
+      "kind": "official film still"
+    },
+    {
+      "file": "onepiece.jpg",
+      "name": "One Piece",
+      "kind": "previously verified still"
+    },
+    {
+      "name": "Sound! Euphonium",
+      "file": "hibike.jpg",
+      "page": "https://tv.anime-eupho.com/story/01/",
+      "image": "https://tv.anime-eupho.com/img/story/01/still_01.jpg",
+      "kind": "official episode still"
+    },
+    {
+      "file": "wotakoi.jpg",
+      "name": "Wotakoi",
+      "kind": "previously verified still"
+    },
+    {
+      "file": "totoro.jpg",
+      "name": "My Neighbor Totoro",
+      "kind": "previously verified still"
+    },
+    {
+      "file": "weathering.jpg",
+      "name": "Weathering With You",
+      "kind": "previously verified still"
+    },
+    {
+      "file": "yourname.jpg",
+      "name": "Your Name",
+      "kind": "previously verified still"
+    },
+    {
+      "name": "Clannad",
+      "file": "clannad.jpg",
+      "page": "https://www.tbs.co.jp/clannad/clannad1/03story/story/01.html",
+      "image": "https://www.tbs.co.jp/clannad/clannad1/03story/images/01/01.jpg",
+      "kind": "official episode still"
+    },
+    {
+      "name": "Arrietty",
+      "file": "karigurashi.jpg",
+      "page": "https://www.ghibli.jp/works/karigurashi/",
+      "image": "https://www.ghibli.jp/gallery/karigurashi031.jpg",
+      "kind": "official film still"
+    },
+    {
+      "name": "Bocchi the Rock!",
+      "file": "bocchi.jpg",
+      "page": "https://bocchi.rocks/tv/story/",
+      "image": "https://bocchi.rocks/tv/story/SYS/CONTENTS/story_2460_photo_167153235994170361",
+      "kind": "official episode still"
+    },
+    {
+      "name": "From Up on Poppy Hill",
+      "file": "kokurikozaka.jpg",
+      "page": "https://www.ghibli.jp/works/kokurikozaka/",
+      "image": "https://www.ghibli.jp/gallery/kokurikozaka031.jpg",
+      "kind": "official film still"
+    },
+    {
+      "name": "Puella Magi Madoka Magica",
+      "file": "madoka.jpg",
+      "page": "https://www.madoka-magica.com/tv/story/",
+      "image": "https://www.madoka-magica.com/tv/story/SYS/CONTENTS/story_4260_photo_1759642161500229686",
+      "kind": "official episode still"
+    },
+    {
+      "name": "Fate/Zero",
+      "file": "fatezero.jpg",
+      "page": "https://www.fate-zero.jp/story/",
+      "image": "https://www.fate-zero.jp/story/img/story01.jpg",
+      "kind": "official episode still"
+    },
+    {
+      "name": "Lycoris Recoil",
+      "file": "lycoris.jpg",
+      "page": "https://lycoris-recoil.com/story/",
+      "image": "https://lycoris-recoil.com/story/SYS/CONTENTS/story_2371_photo_1663943004675303868",
+      "kind": "official episode still"
+    },
+    {
+      "name": "Anohana",
+      "file": "anohana.jpg",
+      "page": "https://www.anohana.jp/tv/story/",
+      "image": "https://www.anohana.jp/tv/story/img/story0102.jpg",
+      "kind": "official episode still"
+    },
+    {
+      "name": "The Wind Rises",
+      "file": "kazetachinu.jpg",
+      "page": "https://www.ghibli.jp/works/kazetachinu/",
+      "image": "https://www.ghibli.jp/gallery/kazetachinu031.jpg",
+      "kind": "official film still"
+    },
+    {
+      "name": "Porco Rosso",
+      "file": "porco.jpg",
+      "page": "https://www.ghibli.jp/works/porco/",
+      "image": "https://www.ghibli.jp/gallery/porco031.jpg",
+      "kind": "official film still"
+    },
+    {
+      "name": "Violet Evergarden",
+      "file": "violet.jpg",
+      "page": "https://tv.violet-evergarden.jp/story/",
+      "image": "https://tv.violet-evergarden.jp/img/story/01/02.jpg",
+      "kind": "official episode still"
+    },
+    {
+      "file": "frieren.jpg",
+      "name": "Frieren",
+      "kind": "previously verified still"
+    },
+    {
+      "name": "Whisper of the Heart",
+      "file": "mimi.jpg",
+      "page": "https://www.ghibli.jp/works/mimi/",
+      "image": "https://www.ghibli.jp/gallery/mimi031.jpg",
+      "kind": "official film still"
+    },
+    {
+      "file": "mononoke.jpg",
+      "name": "Princess Mononoke",
+      "kind": "previously verified still"
+    },
+    {
+      "file": "chihiro.jpg",
+      "name": "Spirited Away",
+      "kind": "previously verified still"
+    },
+    {
+      "name": "The Cat Returns",
+      "file": "baron.jpg",
+      "page": "https://www.ghibli.jp/works/baron/",
+      "image": "https://www.ghibli.jp/gallery/baron031.jpg",
+      "kind": "official film still"
+    },
+    {
+      "name": "Your Lie in April",
+      "file": "shigatsu.jpg",
+      "page": "https://www.kimiuso.jp/story/",
+      "image": "https://www.kimiuso.jp/assets/img/story/episode/photo/23/photo1.jpg",
+      "kind": "official episode still"
+    },
+    {
+      "file": "howl.jpg",
+      "name": "Howl’s Moving Castle",
+      "kind": "previously verified still"
+    },
+    {
+      "file": "edgerunners.jpg",
+      "name": "Cyberpunk: Edgerunners",
+      "kind": "previously verified still"
+    },
+    {
+      "name": "Castle in the Sky",
+      "file": "laputa.jpg",
+      "page": "https://www.ghibli.jp/works/laputa/",
+      "image": "https://www.ghibli.jp/gallery/laputa031.jpg",
+      "kind": "official film still"
+    },
+    {
+      "file": "shinchan.png",
+      "name": "Crayon Shin-chan",
+      "kind": "previously verified still"
+    },
+    {
+      "name": "Attack on Titan",
+      "file": "aot.jpg",
+      "page": "https://shingeki.tv/season1/story/episode_01.php",
+      "image": "https://shingeki.tv/season1/story/img/01/01_cut_01.jpg",
+      "kind": "official episode still"
+    },
+    {
+      "name": "Tamako Market",
+      "file": "tamako.jpg",
+      "page": "https://tamakomarket.com/story/",
+      "image": "https://tamakomarket.com/img/story/1/thumb/02.jpg",
+      "kind": "official episode still"
+    },
+    {
+      "name": "Vivy: Fluorite Eye’s Song",
+      "file": "vivy.jpg",
+      "page": "https://vivy-portal.com/story/",
+      "image": "https://vivy-portal.com/assets/img/story/cut/03_01.jpg",
+      "kind": "official episode still"
+    },
+    {
+      "name": "Kaguya-sama: Love Is War",
+      "file": "kaguya.jpg",
+      "page": "https://kaguya.love/1st/story/",
+      "image": "https://kaguya.love/1st/assets/img/story/12/02.jpg",
+      "kind": "official episode still"
+    },
+    {
+      "file": "suzume.jpg",
+      "name": "Suzume",
+      "kind": "previously verified still"
+    },
+    {
+      "name": "Nausicaa of the Valley of the Wind",
+      "file": "nausicaa.jpg",
+      "page": "https://www.ghibli.jp/works/nausicaa/",
+      "image": "https://www.ghibli.jp/gallery/nausicaa031.jpg",
+      "kind": "official film still"
+    },
+    {
+      "name": "The Tale of the Princess Kaguya",
+      "file": "kaguyahime.jpg",
+      "page": "https://www.ghibli.jp/works/kaguyahime/",
+      "image": "https://www.ghibli.jp/gallery/kaguyahime031.jpg",
+      "kind": "official film still"
+    },
+    {
+      "name": "Charlotte",
+      "file": "charlotte.jpg",
+      "page": "https://charlotte-anime.jp/story/",
+      "image": "https://charlotte-anime.jp/assets/img/story/slider_13/01.jpg",
+      "kind": "official episode still"
+    },
+    {
+      "file": "ponyo.jpg",
+      "name": "Ponyo",
+      "kind": "previously verified still"
+    },
+    {
+      "file": "majo.jpg",
+      "name": "Kiki’s Delivery Service",
+      "kind": "previously verified still"
+    }
+  ]
+}
