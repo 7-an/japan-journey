@@ -1,0 +1,14 @@
+{
+  "background": {
+    "location": "Otaru Canal, Hokkaido",
+    "page": "https://www.visit-hokkaido.jp/en/spot/detail_10040.html",
+    "image": "https://www.visit-hokkaido.jp/lsc/upfile/spot/0001/0040/10040_6_l.jpg",
+    "credit": "HOKKAIDO LOVE! official tourism gallery"
+  },
+  "clip": {
+    "source": "User-supplied ScreenRecording_10-12-2026 21-38-25_1.mov",
+    "location": "Visually identified as Ginzan Onsen, Yamagata; no geolocation metadata available",
+    "edit": "Trimmed first 1.7 seconds and tail; silent H.264 MP4, 8.75 seconds",
+    "location_reference": "https://www.japan.travel/en/japans-local-treasures/ginzan-onsen/"
+  }
+}
