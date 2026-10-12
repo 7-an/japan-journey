@@ -1,13 +1,15 @@
 # Japan — Beyond the screen
 
-A three-chapter classroom presentation website: animated opening, anime culture and a winter travel postcard.
+Five 16:9 classroom slides: anime opening, fan culture, winter travel, Osaka food, and honne/tatemae. Use arrow keys, Page Up/Down, Space or the mouse wheel to advance. F toggles fullscreen.
 
-Open index.html or visit the GitHub Pages site. Click Begin the journey to start the opening and music. Use the mouse wheel or arrow keys to advance one full slide at a time. The third slide combines an official Otaru Canal photograph with a user-supplied winter clip with its original sound, paused until the presenter clicks play. Music continues across slides.
+The opening holds its last frame. Music continues across slides. The winter clip occupies 60% of slide width, stays paused on entry and plays its original audio only after a manual click. It pauses when leaving the slide. On the last slide, click “Reveal a possible feeling” (or press Space/Right) to show the imagined private thought.
 
-## Media credits
+Transitions: horizontal camera movement, an anime tile expanding into winter scenery, a diagonal snow-to-neon reveal, and a dark fade into the conversation. Reduced-motion preferences skip page transitions.
 
-Music: Dream Culture by Kevin MacLeod (incompetech.com), CC BY 4.0. Edited into a crossfaded background track.
+The current [bilingual speaker script](japan_culture_20261010/exports/Japan_Five_Slide_Script_EN_ZH.md) replaces the earlier ten-slide script. Timing is estimated from word count; rehearse before presenting.
 
-Animation and photograph ownership and source links are recorded in [media credits](japan_culture_20261010/exports/Japan_AMV_Credits_and_Playback_v11.md). Third-party media are not covered by a blanket repository license.
+## Credits
 
-Winter slide photo: HOKKAIDO LOVE! official Otaru Canal gallery. Clip: supplied by the presenter, visually identified as Ginzan Onsen in Yamagata. Sources and edit details: [winter sources](assets/winter-sources.json).
+Music: Dream Culture by Kevin MacLeod (incompetech.com), CC BY 4.0. Media records: [anime](assets/collage-40-sources.json), [winter](assets/winter-sources.json), [food and communication](assets/five-slide-sources.json). Takoyaki photograph: sayo ts, CC0. Other photographs: official JNTO, HOKKAIDO LOVE! and Osaka Convention & Tourism Bureau galleries. Winter clip supplied by the presenter; visually identified as Ginzan Onsen in Yamagata.
+
+Third-party media retain their owners’ rights. The invitation dialogue is an imagined example, not a claim about any photographed person or every Japanese person.
