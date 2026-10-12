@@ -2,7 +2,7 @@
 
 A three-chapter classroom presentation website: animated opening, anime culture and a winter travel postcard.
 
-Open index.html or visit the GitHub Pages site. Click Begin the journey to start the opening and music. Use the mouse wheel or arrow keys to advance one full slide at a time. The third slide combines an official Otaru Canal photograph with a muted, looping user-supplied winter clip. Music continues across slides.
+Open index.html or visit the GitHub Pages site. Click Begin the journey to start the opening and music. Use the mouse wheel or arrow keys to advance one full slide at a time. The third slide combines an official Otaru Canal photograph with a user-supplied winter clip with its original sound, paused until the presenter clicks play. Music continues across slides.
 
 ## Media credits
 

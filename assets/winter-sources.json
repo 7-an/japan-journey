@@ -8,7 +8,7 @@
   "clip": {
     "source": "User-supplied ScreenRecording_10-12-2026 21-38-25_1.mov",
     "location": "Visually identified as Ginzan Onsen, Yamagata; no geolocation metadata available",
-    "edit": "Trimmed first 1.7 seconds and tail; silent H.264 MP4, 8.75 seconds",
+    "edit": "First 1.7 seconds and tail trimmed; H.264 video with original AAC audio restored at matching timestamp, 8.733 seconds; manual playback, no autoplay or loop",
     "location_reference": "https://www.japan.travel/en/japans-local-treasures/ginzan-onsen/"
   }
 }
