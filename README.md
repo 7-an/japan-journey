@@ -4,7 +4,7 @@ Five 16:9 classroom slides: anime opening, fan culture, winter travel, Osaka foo
 
 The opening holds its last frame. Music continues across slides. The winter clip occupies 60% of slide width, stays paused on entry and plays its original audio only after a manual click. It pauses when leaving the slide. On the last slide, click “Reveal a possible feeling” (or press Space/Right) to show the imagined private thought.
 
-Transitions: horizontal camera movement, an anime tile expanding into winter scenery, a diagonal snow-to-neon reveal, and a dark fade into the conversation. Reduced-motion preferences skip page transitions.
+Transitions: horizontal camera movement, a continuous anime-tile zoom with an overlapping winter fade, a diagonal snow-to-neon reveal, and a dark fade into the conversation. Reduced-motion preferences skip page transitions.
 
 The current [bilingual speaker script](japan_culture_20261010/exports/Japan_Five_Slide_Script_EN_ZH.md) replaces the earlier ten-slide script. Timing is estimated from word count; rehearse before presenting.
 

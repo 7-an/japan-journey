@@ -49,6 +49,9 @@ function fitDeck(){document.documentElement.style.setProperty('--deck-scale',Mat
 function showControls(){document.querySelectorAll('.sound,.pager').forEach(x=>x.classList.remove('controls-hidden'));clearTimeout(hideControlsTimer);hideControlsTimer=setTimeout(()=>{document.querySelectorAll('.sound,.pager').forEach(x=>{if(!x.matches(':hover')&&!x.contains(document.activeElement))x.classList.add('controls-hidden')})},2600)}
 let deckInitialized=false,transitioning=false,queuedSlide=null;
 const scene=$('transition-scene'),veil=$('transition-veil');
+// Decode transition images before the first click; keep the overlay at a fixed raster size.
+scene.firstElementChild.src=document.querySelector('.anime-wall img[alt="Weathering With You"]').src;
+[scene.firstElementChild,document.querySelector('.winter-background')].forEach(img=>img.decode?.().catch(()=>{}));
 function revealFeeling(){$('honne-example').classList.add('is-revealed');$('reveal-feeling').setAttribute('aria-expanded','true')}
 $('reveal-feeling').onclick=revealFeeling;
 function applySlide(n){setActive(n);sections.forEach((s,i)=>{s.classList.toggle('is-current',i===n);s.classList.toggle('in-view',i===n);s.inert=i!==n;s.setAttribute('aria-hidden',String(i!==n))});$('page-count').textContent=(n+1)+' / '+sections.length;$('prev-slide').disabled=n===0;$('next-slide').disabled=n===sections.length-1;history.replaceState(null,'','#'+sections[n].id);showControls()}
@@ -58,10 +61,19 @@ async function showSlide(n,{animate=true}={}){n=Math.max(0,Math.min(sections.len
  try{
   if(from===1&&n===2){
    const tile=document.querySelector('.anime-wall img[alt="Weathering With You"]'),r=tile.getBoundingClientRect(),d=$('deck').getBoundingClientRect(),scale=d.width/1280;
-   const start={left:(r.left-d.left)/scale,top:(r.top-d.top)/scale,width:r.width/scale,height:r.height/scale};scene.firstElementChild.src=tile.currentSrc||tile.src;Object.assign(scene.style,{display:'block',left:start.left+'px',top:start.top+'px',width:start.width+'px',height:start.height+'px'});
-   await animateElement(scene,[Object.fromEntries(Object.entries(start).map(([k,v])=>[k,v+'px'])),{left:'0px',top:'0px',width:'1280px',height:'720px'}],{duration:480,fill:'forwards'});
-   Object.assign(scene.style,{left:'0px',top:'0px',width:'1280px',height:'720px'});applySlide(n);
-   await Promise.all([animateElement(scene,[{opacity:1,filter:'blur(0px)'},{opacity:0,filter:'blur(5px)'}],{duration:320}),animateElement(next.querySelector('.winter-background'),[{transform:'scale(1.055)'},{transform:'scale(1)'}],{duration:700})]);
+   const box={left:(r.left-d.left)/scale,top:(r.top-d.top)/scale,width:r.width/scale,height:r.height/scale};
+   const zoom=Math.max(box.width/1280,box.height/720),cropX=(1280-box.width/zoom)/2,cropY=(720-box.height/zoom)/2;
+   const origin='translate3d('+(box.left-cropX*zoom)+'px,'+(box.top-cropY*zoom)+'px,0) scale('+zoom+')';
+   const crop='inset('+cropY+'px '+cropX+'px)';
+   Object.assign(scene.style,{display:'block',left:'0px',top:'0px',width:'1280px',height:'720px',transformOrigin:'0 0',willChange:'transform,opacity,clip-path'});
+   previous.classList.add('is-transitioning');previous.style.zIndex='1';next.style.zIndex='2';applySlide(n);
+   // One overlapping timeline: compositor scaling, with winter appearing before zoom ends.
+   await Promise.all([
+    animateElement(scene,[{transform:origin,clipPath:crop,opacity:1,offset:0},{transform:'translate3d(0,0,0) scale(1.025)',clipPath:'inset(0px)',opacity:0,offset:1}],{duration:680,easing:'cubic-bezier(.4,0,.2,1)'}),
+    animateElement(previous,[{opacity:1},{opacity:0}],{duration:680}),
+    animateElement(next,[{opacity:0,offset:0},{opacity:0,offset:.28},{opacity:1,offset:1}],{duration:680}),
+    animateElement(next.querySelector('.winter-background'),[{transform:'scale(1.035)'},{transform:'scale(1)'}],{duration:680})
+   ]);
   }else if(from===3&&n===4){
    veil.style.display='block';await animateElement(veil,[{opacity:0},{opacity:1}],{duration:260,fill:'forwards'});veil.style.opacity='1';applySlide(n);await animateElement(veil,[{opacity:1},{opacity:0}],{duration:430});
   }else{
@@ -69,7 +81,7 @@ async function showSlide(n,{animate=true}={}){n=Math.max(0,Math.min(sections.len
    const incoming=from===2&&n===3?[{clipPath:'polygon(110% 0,110% 0,100% 100%,100% 100%)'},{clipPath:'polygon(0 0,100% 0,100% 100%,0 100%)'}]:[{opacity:0,transform:'translateX('+ (forward?105:-105)+'px)'},{opacity:1,transform:'translateX(0)'}];
    await Promise.all([animateElement(previous,[{opacity:1,transform:'translateX(0)'},{opacity:0,transform:'translateX('+(forward?-85:85)+'px)',filter:'blur(3px)'}],{duration:650}),animateElement(next,incoming,{duration:720}),...(next.querySelector('.food-background')?[animateElement(next.querySelector('.food-background'),[{transform:'scale(1.07)'},{transform:'scale(1)'}],{duration:900})]:[])]);
   }
- }catch{applySlide(n)}finally{previous.classList.remove('is-transitioning');previous.style.zIndex='';next.style.zIndex='';scene.style.display='none';veil.style.display='none';veil.style.opacity='';transitioning=false;$('deck').setAttribute('aria-busy','false');const queued=queuedSlide;queuedSlide=null;if(queued!==null&&queued!==active)showSlide(queued)}
+ }catch{applySlide(n)}finally{previous.classList.remove('is-transitioning');previous.style.zIndex='';next.style.zIndex='';scene.style.display='none';scene.style.willChange='';veil.style.display='none';veil.style.opacity='';transitioning=false;$('deck').setAttribute('aria-busy','false');const queued=queuedSlide;queuedSlide=null;if(queued!==null&&queued!==active)showSlide(queued)}
 }
 
 $('prev-slide').onclick=()=>showSlide(active-1);$('next-slide').onclick=()=>showSlide(active+1);
