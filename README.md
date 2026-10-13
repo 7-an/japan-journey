@@ -10,6 +10,6 @@ The current [bilingual speaker script](japan_culture_20261010/exports/Japan_Five
 
 ## Credits
 
-Music: Dream Culture by Kevin MacLeod (incompetech.com), CC BY 4.0. Media records: [anime](assets/collage-40-sources.json), [winter](assets/winter-sources.json), [food and communication](assets/five-slide-sources.json). Takoyaki photograph: sayo ts, CC0. Other photographs: official JNTO, HOKKAIDO LOVE! and Osaka Convention & Tourism Bureau galleries, plus the credited Biei photography article in winter-sources.json. Winter clip supplied by the presenter; visually identified as Ginzan Onsen in Yamagata.
+Music: Dream Culture by Kevin MacLeod (incompetech.com), CC BY 4.0. Media records: [anime](assets/collage-40-sources.json), [winter](assets/winter-sources.json), [food and communication](assets/five-slide-sources.json). Takoyaki photograph: sayo ts, CC0. Other photographs: official JNTO, HOKKAIDO LOVE! and Osaka Convention & Tourism Bureau galleries, plus the credited Osaka street gallery and Biei photography article in winter-sources.json. Winter clip supplied by the presenter; visually identified as Ginzan Onsen in Yamagata.
 
 Third-party media retain their owners’ rights. The invitation dialogue is an imagined example, not a claim about any photographed person or every Japanese person.

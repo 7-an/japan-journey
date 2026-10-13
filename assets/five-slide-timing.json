@@ -1,13 +1,13 @@
 {
   "spoken_words": 907,
-  "video_seconds": 31.733333,
+  "video_seconds": 39.003333,
   "suggested_wpm": [
     115,
     125
   ],
   "estimated_minutes_with_25_seconds_pauses": [
-    8.20155555,
-    8.832512071739131
+    8.322722216666667,
+    8.953678738405797
   ],
-  "note": "Timing is an estimate; includes 23s opening, 8.73s winter clip, 25s pauses. Rehearse once to confirm."
+  "note": "Estimate includes 23s opening, 16s winter clip, and 25s pauses."
 }

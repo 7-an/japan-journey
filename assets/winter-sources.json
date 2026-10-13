@@ -1,10 +1,10 @@
 {
   "clip": {
-    "source": "User-supplied ScreenRecording_10-12-2026 21-38-25_1.mov",
+    "source": "User-supplied ScreenRecording_10-13-2026 13-51-05_1.mov",
     "location": "Visually identified as Ginzan Onsen, Yamagata; no geolocation metadata available",
-    "edit": "First 1.7 seconds and tail trimmed; H.264 video with original AAC audio restored at matching timestamp, 8.733 seconds; manual playback, no autoplay or loop",
+    "edit": "Full 16.003 second source; H.264 video and AAC audio; no trimming; poster at 2 seconds; original audio retained",
     "location_reference": "https://www.japan.travel/en/japans-local-treasures/ginzan-onsen/",
-    "file": "winter-ginzan-audio.mp4",
+    "file": "winter-ginzan-new.mp4",
     "playback": "Explicit manual play only; unmute and volume 1 on user click; pause on slide change",
     "presentation": "Manual thumbnail opens a frameless 60%-width player; close/Escape returns to photos. Paused on every slide entry."
   },

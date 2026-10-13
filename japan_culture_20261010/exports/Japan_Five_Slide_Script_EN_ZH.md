@@ -1,6 +1,6 @@
 # Japan — Beyond the screen.
 
-当前正式五页的配套讲稿。英文为课堂朗读内容，中文为理解与练习用对照。共 **907 个英文词**；按每分钟 115–125 词，加上两段视频和约 25 秒停顿，预计 **8.2–8.8 分钟**。此稿替代此前十页旧稿。
+当前正式五页的配套讲稿。英文为课堂朗读内容，中文为理解与练习用对照。共 **907 个英文词**；按每分钟 115–125 词，加上两段视频和约 25 秒停顿，预计 **8.3–9.0 分钟**。此稿替代此前十页旧稿。
 
 操作：方向键／鼠标滚轮逐页翻；第三页视频默认暂停、保留原声；第五页手动揭示示例中的一种可能想法。
 
@@ -54,7 +54,7 @@ For me, that is what makes this culture special: a fictional story can become a 
 
 ## 3. Somewhere I'd love to go.
 
-演示提示（不朗读）：先指向美瑛雪原和海边列车；说到短视频时，点击缩略图手动播放。视频结束后点击“BACK TO THE SNOW”，返回照片再继续分享。
+演示提示（不朗读）：先指向美瑛雪原和海边列车；说到短视频时，点击缩略图手动播放约 16 秒的视频。视频结束后点击“BACK TO THE SNOW”，返回照片再继续分享。
 
 ### English
 
@@ -88,7 +88,7 @@ These are the places on my travel wish list: a little less rush, and a little mo
 
 这些就是我想去的地方：少一点匆忙，多一点心动。
 
-## 4. Taste the city.
+## 4. One night in Osaka.
 
 演示提示（不朗读）：转入美食后可以指向三张照片；最后一个问题留 3–5 秒给同学反应。
 
