@@ -1,16 +1,31 @@
 {
-  "background": {
-    "location": "Otaru Canal, Hokkaido",
-    "page": "https://www.visit-hokkaido.jp/en/spot/detail_10040.html",
-    "image": "https://www.visit-hokkaido.jp/lsc/upfile/spot/0001/0040/10040_6_l.jpg",
-    "credit": "HOKKAIDO LOVE! official tourism gallery"
-  },
   "clip": {
     "source": "User-supplied ScreenRecording_10-12-2026 21-38-25_1.mov",
     "location": "Visually identified as Ginzan Onsen, Yamagata; no geolocation metadata available",
     "edit": "First 1.7 seconds and tail trimmed; H.264 video with original AAC audio restored at matching timestamp, 8.733 seconds; manual playback, no autoplay or loop",
     "location_reference": "https://www.japan.travel/en/japans-local-treasures/ginzan-onsen/",
     "file": "winter-ginzan-audio.mp4",
-    "playback": "Explicit manual play only; unmute and volume 1 on user click; pause on slide change"
+    "playback": "Explicit manual play only; unmute and volume 1 on user click; pause on slide change",
+    "presentation": "Manual thumbnail opens a frameless 60%-width player; close/Escape returns to photos. Paused on every slide entry."
+  },
+  "previous_background": {
+    "location": "Otaru Canal, Hokkaido",
+    "page": "https://www.visit-hokkaido.jp/en/spot/detail_10040.html",
+    "image": "https://www.visit-hokkaido.jp/lsc/upfile/spot/0001/0040/10040_6_l.jpg",
+    "credit": "HOKKAIDO LOVE! official tourism gallery"
+  },
+  "background": {
+    "location": "Christmas Tree, Biei, Hokkaido",
+    "page": "https://camera-beginner.sakura.ne.jp/wp/?p=9348",
+    "image": "https://camera-beginner.sakura.ne.jp/wp/wp-content/uploads/2015/12/20151212-_DSC7568.jpg",
+    "credit": "一眼レフカメラ・写真初心者のカメラブログ / original photographer; rights retained",
+    "file": "winter-biei-sky.jpg"
+  },
+  "coastal_train": {
+    "location": "Ryuhyo Monogatari Train, Sea of Okhotsk, Hokkaido",
+    "page": "https://www.visit-hokkaido.jp/en/spot/detail_11291.html",
+    "image": "https://www.visit-hokkaido.jp/lsc/upfile/spot/0001/1291/11291_1_l.jpg",
+    "credit": "HOKKAIDO LOVE! official tourism gallery",
+    "file": "winter-coastal-train.jpg"
   }
 }

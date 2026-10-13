@@ -1,6 +1,6 @@
 # Japan — Beyond the screen.
 
-当前正式五页的配套讲稿。英文为课堂朗读内容，中文为理解与练习用对照。共 **894 个英文词**；按每分钟 115–125 词，加上两段视频和约 25 秒停顿，预计 **8.1–8.7 分钟**。此稿替代此前十页旧稿。
+当前正式五页的配套讲稿。英文为课堂朗读内容，中文为理解与练习用对照。共 **907 个英文词**；按每分钟 115–125 词，加上两段视频和约 25 秒停顿，预计 **8.2–8.8 分钟**。此稿替代此前十页旧稿。
 
 操作：方向键／鼠标滚轮逐页翻；第三页视频默认暂停、保留原声；第五页手动揭示示例中的一种可能想法。
 
@@ -12,7 +12,7 @@
 
 Good morning, everyone. When you hear the word Japan, what comes to mind? Maybe anime, beautiful places, or delicious food. For me, one of the first things is One Piece. I love this anime, and many of the characters I use as my avatars come from it.
 
-Today, I want to share the Japan that makes me curious. We will start with stories on a screen, step into a snowy town, follow our appetite through Osaka, and finally look at how people express their feelings.
+Today, I want to share the Japan that makes me curious. We will start with stories on a screen, step into a snowy landscape, follow our appetite through Osaka, and finally look at how people express their feelings.
 
 This is a personal journey through culture, places, food, and the connections between people. Let's begin.
 
@@ -20,7 +20,7 @@ This is a personal journey through culture, places, food, and the connections be
 
 大家好。听到“日本”这个词，你们会想到什么？也许是动漫、美丽的风景，或者美食。对我来说，最先想到的事物之一就是《海贼王》。我喜欢这部动漫，我用过的许多头像也都是里面的角色。
 
-今天，我想分享那些让我对日本产生好奇的事物。我们会从屏幕上的故事开始，走进一个下雪的小镇，跟着食欲逛大阪，最后看看人们如何表达自己的感受。
+今天，我想分享那些让我对日本产生好奇的事物。我们会从屏幕上的故事开始，走进一片雪景，跟着食欲逛大阪，最后看看人们如何表达自己的感受。
 
 这是一场关于文化、风景、美食，以及人与人之间联系的个人旅程。让我们开始吧。
 
@@ -52,37 +52,41 @@ For me, that is what makes this culture special: a fictional story can become a 
 
 对我来说，这就是这种文化特别的地方：一个虚构的故事，可以在人与人之间建立真实的联系，也能让我们对屏幕之外的世界产生好奇。
 
-## 3. A quieter Japan.
+## 3. Somewhere I'd love to go.
 
-演示提示（不朗读）：介绍完小樽，再手动播放约 9 秒视频；等视频结束后继续。视频保留原声。
+演示提示（不朗读）：先指向美瑛雪原和海边列车；说到短视频时，点击缩略图手动播放。视频结束后点击“BACK TO THE SNOW”，返回照片再继续分享。
 
 ### English
 
-After the world of anime, I want to step into a real place that gives me a similar feeling.
+Anime makes me curious about real places, too. Sometimes I see a landscape and think: I would love to be there.
 
-The background here is Otaru Canal in Hokkaido. Snow lies along the water, and warm lights reflect on its surface. This is the kind of winter evening I would love to experience: a slow walk, a beautiful view, and no need to rush.
+This is Biei in Hokkaido. A single tree, a wide snowfield, and a clear blue sky. I like how simple it feels. There is so much space to breathe.
 
-Let's take a short walk through another winter town.
+The smaller photo shows a train beside the Sea of Okhotsk, also in Hokkaido. I would love to take a window seat, listen to music, and watch the snow and the sea go by. The journey itself could be part of the experience.
 
-The video shows Ginzan Onsen in Yamagata. It is a different place from Hokkaido. Traditional wooden inns stand beside the river, and the lights make the snowy streets feel warm. Onsen means hot spring, so the town connects beautiful scenery with Japan's bathing culture.
+Now, let's watch a short winter moment from another part of Japan.
 
-I also love the idea of quiet country roads and open landscapes. A trip does not have to be a list of famous places. Sometimes, I would rather spend an evening noticing the lights, the weather, and the sounds around me.
+This video shows Ginzan Onsen in Yamagata, a different place from Hokkaido. Snow falls around the wooden inns, and warm lights fill the street. Onsen means hot spring.
 
-For me, these places show a quieter side of Japan. I would love to visit the lively cities, but I would also make time for moments like these.
+What attracts me is the feeling: cold air outside, warm places to stop, and time to enjoy the view. I do not need to visit every famous attraction. I would rather share a slow day with a friend, take a few photos, and enjoy being there.
+
+These are the places on my travel wish list: a little less rush, and a little more wonder.
 
 ### 中文对照
 
-看过动漫的世界之后，我想走进一个真实的地方，去寻找类似的感觉。
+动漫也让我对真实的地方产生好奇。有时候，看到一处风景，我会想：真想亲自站在那里。
 
-这里的背景是北海道的小樽运河。雪覆盖着水边，温暖的灯光倒映在水面上。这就是我很想体验的冬日傍晚：慢慢散步，看看风景，不必急着赶往下一个地方。
+这里是北海道的美瑛。一棵树、一片开阔的雪原，还有清澈的蓝天。我喜欢这种简单的感觉，好像连呼吸都变得轻松了。
 
-让我们通过一段短视频，去另一个冬日小镇走一走。
+小照片里是一列沿鄂霍次克海岸行驶的列车，也在北海道。我想坐在靠窗的位置，听着音乐，看雪原和大海从窗外经过。旅途本身，也可以是值得期待的一部分。
 
-视频里是山形县的银山温泉，它和北海道是两个不同的地方。传统的木造旅馆立在河边，灯光让积雪的街道显得温暖。“Onsen”就是温泉，所以这个地方也把美丽的风景和日本的温泉文化联系起来。
+现在，让我们通过一小段视频，看看日本另一个地方的冬天。
 
-我也向往安静的乡间道路和开阔的风景。旅行不一定是一张著名景点的清单。有时，我更愿意用一个晚上，去留意身边的灯光、天气和声音。
+视频里是山形县的银山温泉，它和北海道是不同的地方。雪落在木造旅馆周围，温暖的灯光照亮街道。“Onsen”就是温泉。
 
-对我来说，这些地方展现了日本比较安静的一面。我想去热闹的城市，但也想为这样的时刻留出时间。
+吸引我的是这种感觉：外面空气很冷，却有温暖的地方可以停下来，也有时间慢慢看风景。我不需要把每一个著名景点都逛完。我更想和朋友一起慢悠悠地度过一天，拍几张照片，好好感受当下。
+
+这些就是我想去的地方：少一点匆忙，多一点心动。
 
 ## 4. Taste the city.
 
@@ -163,7 +167,9 @@ My final thought is simple: stay curious, listen carefully, and let friendship t
 ## Sources / 不朗读
 
 - Anime and fan culture: https://www.japan.travel/en/guide/japanese-anime-and-comics/
-- Otaru Canal: https://www.visit-hokkaido.jp/en/spot/detail_10040.html
+- Biei: https://www.japan.travel/en/spot/1890/
+- Biei snow photograph: https://camera-beginner.sakura.ne.jp/wp/?p=9348
+- Coastal train: https://www.visit-hokkaido.jp/en/spot/detail_11291.html
 - Ginzan Onsen: https://www.japan.travel/en/japans-local-treasures/ginzan-onsen/
 - Dotonbori and food descriptions: https://www.japan.travel/en/spot/2207/
 - Osaka-style okonomiyaki: https://osaka-info.jp/en/gourmet/gastronomy-okonomiyaki/
