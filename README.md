@@ -10,6 +10,6 @@ The current [bilingual speaker script](japan_culture_20261010/exports/Japan_Five
 
 ## Credits
 
-Music: Dream Culture by Kevin MacLeod (incompetech.com), CC BY 4.0. Media records: [anime](assets/collage-40-sources.json), [winter](assets/winter-sources.json), [Tokyo](assets/tokyo-sources.json), [communication](assets/five-slide-sources.json). Photographs on the current slides: JNTO official tourism galleries and the credited Biei photography article in winter-sources.json. Winter clip supplied by the presenter; visually identified as Ginzan Onsen in Yamagata.
+Music: Dream Culture by Kevin MacLeod (incompetech.com), CC BY 4.0. Media records: [anime](assets/collage-40-sources.json), [winter](assets/winter-sources.json), [Tokyo](assets/tokyo-sources.json), [communication](assets/five-slide-sources.json). Photographs on the current slides: JNTO official tourism galleries, Astop's Akihabara figure showcase, and the credited Biei photography article in winter-sources.json. Winter clip supplied by the presenter; visually identified as Ginzan Onsen in Yamagata.
 
 Third-party media retain their owners’ rights. The invitation dialogue is an imagined example, not a claim about any photographed person or every Japanese person.

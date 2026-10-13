@@ -20,13 +20,21 @@
       "page": "https://www.japan.travel/en/spot/2108/",
       "image": "https://res-4.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1513934102/tokyo/Tokyo2334_1",
       "credit": "JNTO official tourism photograph; original rights retained"
+    },
+    {
+      "file": "tokyo-anime-figures.jpg",
+      "location": "Astop Akihabara Radio Kaikan Store, Tokyo",
+      "page": "https://www.astop.co.jp/radio/en/caselist/",
+      "image": "https://astop-webapp.sakura.ne.jp/image/css/1/O03/20260711-13254806a51c5ccccaae.jpg",
+      "credit": "Astop official showcase photograph; original rights retained",
+      "scope": "Illustrates physical anime merchandise; visible price labels are part of the photographed display, not current price claims"
     }
   ],
   "copy_scope": "Neighborhood character only; no opening times, visitor counts or itinerary guarantees",
   "current_visuals": {
     "background": "Shibuya Crossing night photograph",
     "Shibuya card": "Crop of illuminated buildings and screens; crowd excluded",
-    "Akihabara card": "One Piece still from existing credited anime assets; illustrates fandom, not a photograph of Akihabara",
+    "Akihabara card": "Real photograph of anime figures in an Astop Radio Kaikan shop display cabinet",
     "Shimokitazawa card": "Crop of vintage coats and store textures from original JNTO neighborhood photograph"
   }
 }
