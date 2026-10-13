@@ -22,5 +22,11 @@
       "credit": "JNTO official tourism photograph; original rights retained"
     }
   ],
-  "copy_scope": "Neighborhood character only; no opening times, visitor counts or itinerary guarantees"
+  "copy_scope": "Neighborhood character only; no opening times, visitor counts or itinerary guarantees",
+  "current_visuals": {
+    "background": "Shibuya Crossing night photograph",
+    "Shibuya card": "Crop of illuminated buildings and screens; crowd excluded",
+    "Akihabara card": "One Piece still from existing credited anime assets; illustrates fandom, not a photograph of Akihabara",
+    "Shimokitazawa card": "Crop of vintage coats and store textures from original JNTO neighborhood photograph"
+  }
 }
