@@ -1,0 +1,26 @@
+{
+  "photos": [
+    {
+      "file": "tokyo-shibuya.jpg",
+      "location": "Shibuya, Tokyo",
+      "page": "https://www.japan.travel/en/spot/2177/",
+      "image": "https://res-1.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1516980091/tokyo/Tokyo2333_13",
+      "credit": "JNTO official tourism photograph; original rights retained"
+    },
+    {
+      "file": "tokyo-akihabara.jpg",
+      "location": "Akihabara, Tokyo",
+      "page": "https://www.japan.travel/en/spot/2178/",
+      "image": "https://res-2.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1516980036/tokyo/Tokyo2608_1",
+      "credit": "JNTO official tourism photograph; original rights retained"
+    },
+    {
+      "file": "tokyo-shimokitazawa.jpg",
+      "location": "Shimokitazawa, Tokyo",
+      "page": "https://www.japan.travel/en/spot/2108/",
+      "image": "https://res-4.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1513934102/tokyo/Tokyo2334_1",
+      "credit": "JNTO official tourism photograph; original rights retained"
+    }
+  ],
+  "copy_scope": "Neighborhood character only; no opening times, visitor counts or itinerary guarantees"
+}

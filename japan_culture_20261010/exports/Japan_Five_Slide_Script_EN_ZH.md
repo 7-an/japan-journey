@@ -1,6 +1,6 @@
 # Japan — Beyond the screen.
 
-当前正式五页的配套讲稿。英文为课堂朗读内容，中文为理解与练习用对照。共 **907 个英文词**；按每分钟 115–125 词，加上两段视频和约 25 秒停顿，预计 **8.3–9.0 分钟**。此稿替代此前十页旧稿。
+当前正式五页的配套讲稿。英文为课堂朗读内容，中文为理解与练习用对照。共 **930 个英文词**；按每分钟 115–125 词，加上两段视频和约 25 秒停顿，预计 **8.5–9.2 分钟**。此稿替代此前十页旧稿。
 
 操作：方向键／鼠标滚轮逐页翻；第三页视频默认暂停、保留原声；第五页手动揭示示例中的一种可能想法。
 
@@ -12,17 +12,17 @@
 
 Good morning, everyone. When you hear the word Japan, what comes to mind? Maybe anime, beautiful places, or delicious food. For me, one of the first things is One Piece. I love this anime, and many of the characters I use as my avatars come from it.
 
-Today, I want to share the Japan that makes me curious. We will start with stories on a screen, step into a snowy landscape, follow our appetite through Osaka, and finally look at how people express their feelings.
+Today, I want to share the Japan that makes me curious. We will start with stories on a screen, step into a snowy landscape, explore different sides of Tokyo, and finally look at how people express their feelings.
 
-This is a personal journey through culture, places, food, and the connections between people. Let's begin.
+This is a personal journey through culture, places, city life, and the connections between people. Let's begin.
 
 ### 中文对照
 
 大家好。听到“日本”这个词，你们会想到什么？也许是动漫、美丽的风景，或者美食。对我来说，最先想到的事物之一就是《海贼王》。我喜欢这部动漫，我用过的许多头像也都是里面的角色。
 
-今天，我想分享那些让我对日本产生好奇的事物。我们会从屏幕上的故事开始，走进一片雪景，跟着食欲逛大阪，最后看看人们如何表达自己的感受。
+今天，我想分享那些让我对日本产生好奇的事物。我们会从屏幕上的故事开始，走进一片雪景，探索东京不同的街区，最后看看人们如何表达自己的感受。
 
-这是一场关于文化、风景、美食，以及人与人之间联系的个人旅程。让我们开始吧。
+这是一场关于文化、风景、城市生活，以及人与人之间联系的个人旅程。让我们开始吧。
 
 ## 2. Anime & fan culture.
 
@@ -88,37 +88,45 @@ These are the places on my travel wish list: a little less rush, and a little mo
 
 这些就是我想去的地方：少一点匆忙，多一点心动。
 
-## 4. One night in Osaka.
+## 4. Tokyo. One city, many moods.
 
-演示提示（不朗读）：转入美食后可以指向三张照片；最后一个问题留 3–5 秒给同学反应。
+演示提示（不朗读）：从北海道雪景切换到涩谷夜景，再指向三个街区。最后的问题停顿 3–5 秒，让同学选自己最想体验的东京。
 
 ### English
 
-After a quiet winter evening, let's change the pace. Our next stop is Osaka, and this time, we follow our appetite.
+After the quiet snowfields, let's change the rhythm. Our next stop is Tokyo.
 
-The background is Dotonbori, a lively area known for its bright signs and places to eat. I would love to walk around after dark and let the lights, the food, and the atmosphere guide me.
+The background shows Shibuya Crossing. The lights, the screens, and the people moving in different directions make the city feel full of energy. I would love to walk through it with a friend and see the streets light up after dark.
 
-First on my wish list is takoyaki. These are small balls of cooked batter with octopus inside. The next one is ramen: a bowl of noodles and broth that looks especially comforting after a long day outside.
+But Tokyo is more than one busy crossing. Different neighborhoods have different moods.
 
-I would also try okonomiyaki, a savory pancake cooked on a hot plate. These dishes offer three different experiences: a small bite, a warm bowl, and something fresh from the grill.
+Shibuya is the Tokyo of city lights, shopping, and street style. It is the place I imagine when I think of a lively evening in the city.
 
-Of course, food is more than a photograph. I want to see how it is made, sit in a restaurant, and enjoy the moment. Trying a local dish can be a simple way to become curious about everyday life.
+Akihabara connects this trip with the anime culture we talked about earlier. There are anime and character shops, games, and electronics. As a fan, I would love to browse the shelves and find something from a story I care about.
 
-If you could choose only one of these three foods, which would you try first? For me, I would begin with takoyaki.
+Then there is Shimokitazawa, with vintage clothing, cafés, and live music. I like the idea of taking a slower walk, finding a small shop, and spending an afternoon without a strict plan.
+
+That is what attracts me to Tokyo. I could enjoy the big-city energy, explore my interests, and still find small everyday moments.
+
+Which side would you choose first: Shibuya, Akihabara, or Shimokitazawa? For me, probably Akihabara.
 
 ### 中文对照
 
-看过安静的冬日傍晚，我们换个节奏。下一站是大阪，这次就跟着食欲走。
+看过安静的雪原，我们换一个节奏。下一站是东京。
 
-背景是道顿堀，一个以明亮招牌和各种餐饮店闻名的热闹街区。我想在天黑后去逛逛，让灯光、美食和那里的氛围带着我走。
+背景是涩谷十字路口。灯光、大屏幕，以及朝不同方向走去的人，让这座城市充满活力。我想和朋友一起穿过路口，看看天黑后的街道如何亮起来。
 
-我愿望清单上的第一道美食是章鱼烧，也就是里面包着章鱼的面糊小丸子。接下来是拉面：一碗面条和汤，看起来很适合在外面走了一整天之后享用。
+但东京不只有这一个繁忙的路口。不同街区，有不同的气氛。
 
-我还想尝尝大阪烧，一种在铁板上制作的咸味煎饼。这三种食物带来不同的体验：一口小吃、一碗热汤面，还有一道刚刚出锅的铁板美食。
+涩谷是我想到城市灯光、购物和街头穿搭时，会想起的东京。如果想在城市里度过一个热闹的晚上，我就会想到这里。
 
-当然，美食不只是照片。我想看看它如何制作，坐在餐厅里，享受那一刻。尝试当地的一道菜，可以是对日常生活产生好奇的简单方式。
+秋叶原则把这次旅行和前面讲过的动漫文化联系起来。那里有动漫和角色周边店，也有游戏与电子产品。作为动漫粉丝，我想慢慢逛逛货架，找到自己喜欢的故事里的东西。
 
-如果这三种食物里只能选一种，你会先尝哪一种？我会从章鱼烧开始。
+下北泽则有古着店、咖啡馆和现场音乐。我喜欢慢慢散步、发现一家小店，然后没有严格计划地度过一个下午的感觉。
+
+这就是东京吸引我的地方。我可以感受大城市的活力，探索自己的爱好，也能找到一些细小的日常时刻。
+
+你会先选哪一面的东京：涩谷、秋叶原，还是下北泽？我大概会先去秋叶原。
 
 ## 5. Behind the smile.
 
@@ -126,7 +134,7 @@ If you could choose only one of these three foods, which would you try first? Fo
 
 ### English
 
-Food brings people together. But understanding another person takes more than sharing a meal. Sometimes, what we say does not express everything we feel.
+Tokyo brings many people into one place. But sharing a city does not mean we understand one another. Sometimes, what we say does not express everything we feel.
 
 Two Japanese words can help us discuss this: honne and tatemae. Honne means private feelings and opinions. Tatemae means an expression that suits the public situation. Someone may choose gentle words to keep a conversation comfortable.
 
@@ -140,13 +148,13 @@ These ideas do not describe every Japanese person, and similar differences exist
 
 So, if someone is polite but seems distant, I would not immediately judge them. I would respect their boundaries and let friendship grow through trust and shared time.
 
-That brings us back to my journey. Anime makes me curious, winter landscapes make me want to travel, and food makes me want to explore. But the people I meet would make the experience meaningful.
+That brings us back to my journey. Anime makes me curious, winter landscapes make me want to travel, and Tokyo makes me want to explore. But the people I meet would make the experience meaningful.
 
 My final thought is simple: stay curious, listen carefully, and let friendship take time. That is the Japan I would like to discover. Thank you for listening.
 
 ### 中文对照
 
-美食能把人们聚在一起。但理解一个人，需要的不只是一起吃顿饭。有时，我们说出来的话，并不能表达内心的全部感受。
+东京把许多人带到同一座城市里。但生活在同一座城市，并不代表我们了解彼此。有时，我们说出来的话，并不能表达内心的全部感受。
 
 有两个日语词可以帮助我们讨论这个问题：本音和建前。本音指个人真实的感受和想法，建前指适合某种公开场合的表达。一个人可能会选择比较温和的措辞，让交流保持舒适。
 
@@ -160,7 +168,7 @@ My final thought is simple: stay curious, listen carefully, and let friendship t
 
 所以，如果一个人很礼貌，但看起来仍然有距离，我不会马上评判他。我会尊重他的边界，让友情通过信任和共同相处的时间慢慢建立。
 
-这又回到了我的旅程。动漫让我产生好奇，冬日风景让我想去旅行，美食让我想去探索。但遇到的人，会让这段经历拥有意义。
+这又回到了我的旅程。动漫让我产生好奇，冬日风景让我想去旅行，东京让我想去探索。但遇到的人，会让这段经历拥有意义。
 
 我最后想说的很简单：保持好奇，认真倾听，让友情慢慢生长。这就是我想发现的日本。谢谢大家。
 
@@ -171,8 +179,9 @@ My final thought is simple: stay curious, listen carefully, and let friendship t
 - Biei snow photograph: https://camera-beginner.sakura.ne.jp/wp/?p=9348
 - Coastal train: https://www.visit-hokkaido.jp/en/spot/detail_11291.html
 - Ginzan Onsen: https://www.japan.travel/en/japans-local-treasures/ginzan-onsen/
-- Dotonbori and food descriptions: https://www.japan.travel/en/spot/2207/
-- Osaka-style okonomiyaki: https://osaka-info.jp/en/gourmet/gastronomy-okonomiyaki/
+- Shibuya: https://www.japan.travel/en/spot/2177/
+- Akihabara: https://www.japan.travel/en/spot/2178/
+- Shimokitazawa: https://www.japan.travel/en/spot/2108/
 - Honne / tatemae: JETRO, Communicating with Japanese in Business (1999), p. 5: https://www.jetro.go.jp/ext_images/mexico/mercadeo/communicationwith.pdf
 
-本音与建前的资料是较早的商务沟通指南，本稿仅采用概念定义；晚饭邀请的对话为虚构示例，不代表某个真实人物或所有日本人。视频画面从外观判断为银山温泉，没有位置元数据。所有图片的来源与署名记在 assets/five-slide-sources.json、assets/winter-sources.json 和 assets/collage-40-sources.json。
+本音与建前的资料是较早的商务沟通指南，本稿仅采用概念定义；晚饭邀请的对话为虚构示例，不代表某个真实人物或所有日本人。视频画面从外观判断为银山温泉，没有位置元数据。所有图片的来源与署名记在 assets/five-slide-sources.json、assets/winter-sources.json 、assets/tokyo-sources.json 和 assets/collage-40-sources.json。
