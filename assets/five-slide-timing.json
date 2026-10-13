@@ -1,13 +1,13 @@
 {
-  "spoken_words": 930,
-  "video_seconds": 39.003333,
+  "spoken_words": 780,
+  "video_seconds": 92.850272,
   "suggested_wpm": [
-    115,
-    125
+    110,
+    120
   ],
   "estimated_minutes_with_25_seconds_pauses": [
-    8.506722216666667,
-    9.153678738405798
+    8.4641712,
+    9.05508029090909
   ],
-  "note": "Estimate includes 23s opening, 16s winter clip, and 25s pauses."
+  "note": "Includes 23s opening, 16s winter film, 53.85s ending film and 25s pauses. At 100 wpm the estimate is 9.76 minutes; rehearse to confirm."
 }

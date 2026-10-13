@@ -1,8 +1,8 @@
 # Japan — Beyond the screen.
 
-当前正式五页的配套讲稿。英文为课堂朗读内容，中文为理解与练习用对照。共 **930 个英文词**；按每分钟 115–125 词，加上两段视频和约 25 秒停顿，预计 **8.5–9.2 分钟**。此稿替代此前十页旧稿。
+当前正式五页的配套讲稿。英文为课堂朗读内容，中文为理解与练习用对照。共 **780 个英文词**；按每分钟 110–120 词，加上三段视频和约 25 秒停顿，预计 **8.5–9.1 分钟**。此稿替代此前十页旧稿。
 
-操作：方向键／鼠标滚轮逐页翻；第三页视频默认暂停、保留原声；第五页手动揭示示例中的一种可能想法。
+操作：方向键／鼠标滚轮逐页翻；第三页视频默认暂停、保留原声；第五页先讲简短文化内容，再手动播放收尾影片；影片播放时 BGM 暂时静音，结束后恢复。
 
 ## 1. Japan — Beyond the screen.
 
@@ -128,49 +128,37 @@ Which side would you choose first: Shibuya, Akihabara, or Shimokitazawa? For me,
 
 你会先选哪一面的东京：涩谷、秋叶原，还是下北泽？我大概会先去秋叶原。
 
-## 5. Behind the smile.
+## 5. Beyond the view.
 
-演示提示（不朗读）：说到“possible feeling”时，点击右侧按钮揭示想法；空格、右箭头也可揭示。最后直接在这一页结束。
+演示提示（不朗读）：先讲简短文化内容，念到“memories of Japan”后点击播放完整约 54 秒影片。下方分隔线表示播放视频的位置；视频结束后再朗读最后一段。影片由 Dexter_mj 拍摄，不说成自己的旅行经历。视频结束后会直接停在致谢画面。
 
 ### English
 
-Tokyo brings many people into one place. But sharing a city does not mean we understand one another. Sometimes, what we say does not express everything we feel.
+Tokyo is full of people, but sharing a place does not mean we understand each other.
 
-Two Japanese words can help us discuss this: honne and tatemae. Honne means private feelings and opinions. Tatemae means an expression that suits the public situation. Someone may choose gentle words to keep a conversation comfortable.
+Honne means private feelings. Tatemae means how we express ourselves in public. These ideas depend on the person and situation; they do not describe every Japanese person.
 
-Here is an imagined example. You invite someone to dinner, and they reply, "Thank you. Maybe another time." What might they be thinking?
+My takeaway is simple: enjoy the places, but listen to the people. Let friendship take time.
 
-Let's reveal one possible feeling: "I'd like a quiet evening tonight."
+To finish, here is a short film by Dexter_mj, showing another traveler's memories of Japan.
 
-This is only a possibility. The person might also be busy, tired, or happy to meet on another day. The reply alone cannot tell us what they really feel.
+---
 
-These ideas do not describe every Japanese person, and similar differences exist in many cultures. We also speak differently with close friends and in formal situations.
-
-So, if someone is polite but seems distant, I would not immediately judge them. I would respect their boundaries and let friendship grow through trust and shared time.
-
-That brings us back to my journey. Anime makes me curious, winter landscapes make me want to travel, and Tokyo makes me want to explore. But the people I meet would make the experience meaningful.
-
-My final thought is simple: stay curious, listen carefully, and let friendship take time. That is the Japan I would like to discover. Thank you for listening.
+That is the Japan I hope to discover: beautiful places, everyday moments, and real connections. Thank you for listening.
 
 ### 中文对照
 
-东京把许多人带到同一座城市里。但生活在同一座城市，并不代表我们了解彼此。有时，我们说出来的话，并不能表达内心的全部感受。
+东京有很多人，但来到同一个地方，并不代表我们就了解彼此。
 
-有两个日语词可以帮助我们讨论这个问题：本音和建前。本音指个人真实的感受和想法，建前指适合某种公开场合的表达。一个人可能会选择比较温和的措辞，让交流保持舒适。
+“本音”指内心的真实感受，“建前”指我们在公开场合里的表达方式。这些概念和具体的人、具体的情境有关，并不能概括每一个日本人。
 
-这里举一个虚构的例子。你邀请一个人吃晚饭，对方回答：“谢谢，也许改天吧。”那他可能在想什么呢？
+我从中得到的启发很简单：欣赏风景，也倾听别人。让友情通过时间慢慢建立。
 
-让我们揭示一种可能的想法：“我今晚想安静地待一会儿。”
+最后，我想播放一部 Dexter_mj 拍摄的短片，看看另一位旅行者对日本的记忆。
 
-这只是一种可能。对方也可能很忙、很累，或者愿意换一天见面。仅凭那句回复，我们无法判断他的真实感受。
+——此处播放视频——
 
-这些概念不能概括每一个日本人，而且很多文化里都有类似的差别。我们在亲近的朋友面前和正式场合里，也会有不同的表达方式。
-
-所以，如果一个人很礼貌，但看起来仍然有距离，我不会马上评判他。我会尊重他的边界，让友情通过信任和共同相处的时间慢慢建立。
-
-这又回到了我的旅程。动漫让我产生好奇，冬日风景让我想去旅行，东京让我想去探索。但遇到的人，会让这段经历拥有意义。
-
-我最后想说的很简单：保持好奇，认真倾听，让友情慢慢生长。这就是我想发现的日本。谢谢大家。
+这就是我希望去发现的日本：美丽的风景、日常的瞬间，以及真实的人与人之间的联系。谢谢大家。
 
 ## Sources / 不朗读
 
@@ -184,4 +172,6 @@ My final thought is simple: stay curious, listen carefully, and let friendship t
 - Shimokitazawa: https://www.japan.travel/en/spot/2108/
 - Honne / tatemae: JETRO, Communicating with Japanese in Business (1999), p. 5: https://www.jetro.go.jp/ext_images/mexico/mercadeo/communicationwith.pdf
 
-本音与建前的资料是较早的商务沟通指南，本稿仅采用概念定义；晚饭邀请的对话为虚构示例，不代表某个真实人物或所有日本人。视频画面从外观判断为银山温泉，没有位置元数据。所有图片的来源与署名记在 assets/five-slide-sources.json、assets/winter-sources.json 、assets/tokyo-sources.json 和 assets/collage-40-sources.json。
+本音与建前的资料是较早的商务沟通指南，本稿仅采用概念定义；相关概念不代表所有日本人。视频画面从外观判断为银山温泉，没有位置元数据。所有图片的来源与署名记在 assets/five-slide-sources.json、assets/winter-sources.json 、assets/tokyo-sources.json 和 assets/collage-40-sources.json。
+
+收尾影片：Dexter_mj，《My Memory of Japan》，https://www.bilibili.com/video/BV15qeezREqA/ 。影片保留作者水印，来源记录见 assets/ending-film-sources.json。
